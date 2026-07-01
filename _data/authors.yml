@@ -106,3 +106,12 @@ Omar Amer:
   member:   true
   current:  true
   email:    Omar.amer1@ucalgary.ca
+
+rosvold-anna:
+  name:     Anna Rosvold
+  bio:      "Undergraduate Student, Biomedical Engineering"
+  fullbio:  "Anna is a Biomedical Engineering student entering her fourth year at the University of Calgary. Her research interests focus on utilizing living medicines and synthetic biology to treat infectious diseases as well as chronic illnesses. Outside of the lab, she is a competitive sport climber and coach who loves problem solving and working with youth athletes. In her free time, she enjoys exploring nature, from the west coast to the rockies."
+  avatar:   /assets/images/rosvold-anna.JPG
+  member:   true
+  current:  true
+  email:    anna.rosvold@ucalgary.ca  
